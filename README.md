@@ -1,4 +1,3 @@
-###START
 # 🛡️ DevSecOps Hands-On Labs
 
 Welcome! This repo includes 3 practical labs to help you integrate security tools into your DevOps workflow.
