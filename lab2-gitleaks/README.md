@@ -48,5 +48,6 @@ gitleaks detect --source . --log-level debug
 
 Prevent secrets from being committed in the first place by using pre-commit hooks:
 ```
+brew install pre-commit
 pre-commit install
 ```
